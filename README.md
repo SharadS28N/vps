@@ -1,1 +1,2 @@
 [![Windows - RustDesk](https://github.com/SharadS28N/vps/actions/workflows/Windows%2010%20-%20RustDesk.yml/badge.svg)](https://github.com/SharadS28N/vps/actions/workflows/Windows%2010%20-%20RustDesk.yml)
+[![Windows - RustDesk](https://github.com/SharadS28N/vps/actions/workflows/Windows%2010%20-%20RustDesk.yml/badge.svg)](https://github.com/SharadS28N/vps/actions/workflows/Windows%2010%20-%20RustDesk.yml)
